@@ -1,0 +1,6 @@
+pyspark==3.1.2
+flake8
+typing
+pytest
+setuptools 
+wheel
